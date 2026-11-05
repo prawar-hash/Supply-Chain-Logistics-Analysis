@@ -10,6 +10,10 @@ The project follows a complete data analytics workflow:
 
 **Data Cleaning → Data Preparation → SQL Analysis → Power BI Dashboard → Business Insights**
 
+## Dashboard Preview
+
+![Supply Chain & Logistics Performance Dashboard](dashboard/dashboard.png)
+
 ## Tools & Technologies
 
 - **Python**
